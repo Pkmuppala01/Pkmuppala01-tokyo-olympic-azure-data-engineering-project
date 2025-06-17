@@ -2,6 +2,12 @@
 
 A comprehensive data engineering and analytics project analyzing the **2020 Tokyo Olympics** dataset using **Azure services** and **Tableau** for visual insights.
 
+## 🏗️ Project Architecture
+
+The data engineering pipeline was designed using a suite of Azure services to ensure smooth ingestion, storage, transformation, and analysis of Tokyo Olympics data.
+
+![Architecture Diagram](images/architecture.png)
+
 ## 📊 Project Overview
 
 This project leverages a full Azure-based architecture to process and analyze data from the 2020 Olympics. It explores athlete participation, gender trends, and medal distribution using powerful cloud tools and data visualization.
