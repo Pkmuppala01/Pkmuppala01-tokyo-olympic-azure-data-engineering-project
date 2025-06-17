@@ -6,7 +6,7 @@ A comprehensive data engineering and analytics project analyzing the **2020 Toky
 
 The data engineering pipeline was designed using a suite of Azure services to ensure smooth ingestion, storage, transformation, and analysis of Tokyo Olympics data.
 
-![Architecture Diagram](/Users/pavanmuppalla/Library/CloudStorage/OneDrive-SwinburneUniversity/2023/sem4/COS80023-Big Data/tokyo-olympic-azure-data-engineering-project/images/architecture.png)
+![Architecture Diagram](architecture.png)
 
 ## 📊 Project Overview
 
